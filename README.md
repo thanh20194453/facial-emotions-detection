@@ -1,15 +1,15 @@
 # facial-emotions-detection
 
-Prerequisites
+1. Prerequisites
 Before you continue, ensure you meet the following requirements:
 
 You have installed python and jupyter notebook.
 Our code is written by Python, based on Pytorch
 
-Dataset
+2. Dataset
 You can download dataset here( https://www.kaggle.com/datasets/rkuo2000/fer2013 )
 
-Usage
+3. Usage
 a.Clone the repository
 
 https://github.com/thanh20194453/facial-emotions-detection.git
