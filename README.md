@@ -20,4 +20,4 @@ b.Download dataset and change location of data in ipynb files
 ![image](https://github.com/thanh20194453/facial-emotions-detection/assets/80198175/cf212e36-a83d-453a-85e6-b4cf768eebbf)
 
 
-c. Go to ipynb files and run it.
+c. Go to ipynb files and run it
